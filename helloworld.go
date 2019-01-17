@@ -1,4 +1,4 @@
-// Package helloworld provides a set of Cloud Function samples.
+// Package helloworld provides a set of Cloud Function samples
 package helloworld
 
 import (
